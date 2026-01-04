@@ -29,10 +29,14 @@ Previously, under the guidance of [Yishuo Cai](https://walkeralan123.github.io/)
 <!-- # 📝 Selected Publications -->
 
 
-🖨️ Preprints & In Submission
-Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks
-Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li
-The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024
+# 🖨️ Preprints & In Submission
+- [DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection](https://leontc-liujiahui.github.io/)
+  Weilin Zhou, Zonghao Ying, Chunlei Meng, **Jiahui Liu**, Hengyang Zhou, Zhaolu Kang, Quanchen Zou, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang
+  *ACL ARR 2026 January Submission*, 2025
+
+- [AVRBENCH: A Manipulation-Oriented Benchmark for Evaluating Multimodal Large Language Models’ Ability to Think with Images](https://leontc-liujiahui.github.io/)
+  Yishuo Cai, **Jiahui Liu**, Yuanxin Liu, Xiang Yu, Wenxuan Huang, Linli Yao, Kun Ouyang, Xu Sun, Shuang Liu, Haoli Bai
+  *CVPR 2026 Conference Submission*, 2025
   
 # 📖 Educations
 - *2023.09 - Present*, Undergraduate, School of Computer Science and Engineering, Central South University, Changsha, China. Majoring in Data Science and Big Data Technology.
