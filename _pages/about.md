@@ -30,12 +30,13 @@ Previously, under the guidance of [Yishuo Cai](https://walkeralan123.github.io/)
 
 
 # 🖨️ Preprints & In Submission
-- [DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection](https://leontc-liujiahui.github.io/)
-  Weilin Zhou, Zonghao Ying, Chunlei Meng, **Jiahui Liu**, Hengyang Zhou, Zhaolu Kang, Quanchen Zou, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang
+
+- [DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection](https://leontc-liujiahui.github.io/)<br>
+  Weilin Zhou, Zonghao Ying, Chunlei Meng, **Jiahui Liu**, Hengyang Zhou, Zhaolu Kang, Quanchen Zou, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang<br>
   *ACL ARR 2026 January Submission*, 2025
 
-- [AVRBENCH: A Manipulation-Oriented Benchmark for Evaluating Multimodal Large Language Models’ Ability to Think with Images](https://leontc-liujiahui.github.io/)
-  Yishuo Cai, **Jiahui Liu**, Yuanxin Liu, Xiang Yu, Wenxuan Huang, Linli Yao, Kun Ouyang, Xu Sun, Shuang Liu, Haoli Bai
+- [AVRBENCH: A Manipulation-Oriented Benchmark for Evaluating Multimodal Large Language Models’ Ability to Think with Images](https://leontc-liujiahui.github.io/)<br>
+  Yishuo Cai, **Jiahui Liu**, Yuanxin Liu, Xiang Yu, Wenxuan Huang, Linli Yao, Kun Ouyang, Xu Sun, Shuang Liu, Haoli Bai<br>
   *CVPR 2026 Conference Submission*, 2025
   
 # 📖 Educations
