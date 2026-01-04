@@ -21,24 +21,26 @@ Hi 😊！
 
 My name is Jiahui Liu, and I am a third-year student at the School of Computer Science, Central South University.I enjoy playing board games, watching movies, anime, and etc.
 
-Previously, under the guidance of Yishuo Cai(https://walkeralan123.github.io/), I explored **MLLM Reasoning**, especially **"Think with images."** In the future, I hope to explore more areas, such as **unified multimodal generation and understanding, VLA, and world models.** I hope to communicate with more people and do more interesting work.😄
+Previously, under the guidance of [Yishuo Cai](https://walkeralan123.github.io/), I explored **MLLM Reasoning**, especially **"Think with images."** In the future, I hope to explore more areas, such as **unified multimodal generation and understanding, VLA, and world models.** I hope to communicate with more people and do more interesting work.😄
+
+<!-- # 🔥 News -->
+
+
+<!-- # 📝 Selected Publications -->
 
 
 
-
-# 🔥 News
-
-
-# 📝 Selected Publications 
-
-
-
-# 🖨️ Preprints & In Submission  
+<!-- # 🖨️ Preprints & In Submission  -->
   
 # 📖 Educations
 - *2023.09 - Present*, Undergraduate, School of Computer Science and Engineering, Central South University, Changsha, China. Majoring in Data Science and Big Data Technology.
 
-# 💻 Internships
+<!-- 💻 Internships -->
+
+
+
+
+
 
 
 
