@@ -39,7 +39,7 @@ Previously, under the guidance of [Yishuo Cai](https://walkeralan123.github.io/)
   Weilin Zhou, Zonghao Ying, Chunlei Meng, **Jiahui Liu**, Hengyang Zhou, Chih-Ting Liao, Quanchen Zou, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang  
   *ECCV 2026 Conference Submission*, 2026
 
-- [Chain of Mindset: Reasoning with Adaptive Cognitive Modes]([https://leontc-liujiahui.github.io/](https://arxiv.org/abs/2602.10063))  
+- [Chain of Mindset: Reasoning with Adaptive Cognitive Modes](https://arxiv.org/abs/2602.10063)  
   Tianyi Jiang, Ruichuan An, Hengyi Feng, Nai-Xin Zhai, Haodong Li, Xiaomin Yu, **Jiahui Liu**, Hanwen Du, Shuo Zhang, Zhi Yang, Jie Huang, Youhua Li, Yongxin Ni, Huacan Wang, Ronghao Chen  
   *ICML 2026 Conference Submission*, 2026
   
