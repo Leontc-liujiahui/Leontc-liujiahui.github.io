@@ -19,7 +19,7 @@ redirect_from:
 
 # Hi there! I'm Jiahui Liu 👋
 
-> **Junior at Central South University (CSU) | Aspiring AI Researcher**
+> Junior at Central South University (CSU) | Aspiring AI Researcher
 > 
 > I am dedicated to pushing the boundaries of how machines perceive and reason about the world. Driven by a passion for Artificial Intelligence, I aim to bridge the gap between multimodal perception and complex reasoning.
 
