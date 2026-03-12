@@ -17,24 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Jiahui Liu 👋
+# Hi there! I'm Jiahui Liu 👋
 
-I am a junior student at the School of Computer Science, Central South University (CSU). Driven by a passion for Artificial Intelligence, I am currently dedicated to pushing the boundaries of how machines perceive and reason about the world.
+> **Junior at Central South University (CSU) | Aspiring AI Researcher**
+> 
+> I am dedicated to pushing the boundaries of how machines perceive and reason about the world. Driven by a passion for Artificial Intelligence, I aim to bridge the gap between multimodal perception and complex reasoning.
 
-🔍 Research Interests:
-Previously, under the mentorship of [Yishuo Cai](https://walkeralan123.github.io/), I focused on MLLM Reasoning, with a specific emphasis on "Thinking with Images"—exploring how multimodal models can move beyond simple recognition to deep visual cognition.
+---
 
-🚀 Future Horizons:
-My long-term goal is to contribute to the path toward AGI. I am particularly excited about:
-Unified Multimodal Generation & Understanding
-Vision-Language-Action (VLA) Models
-World Models for embodied intelligence.
+### 🔍 Research Interests
+Previously, under the mentorship of [**Yishuo Cai**](https://walkeralan123.github.io/), I focused on **MLLM Reasoning**, with a specific emphasis on **"Thinking with Images"** — exploring how multimodal models can move beyond simple recognition to deep visual cognition.
 
-🎮 Beyond Coding:
-When I'm not training models, you can find me strategizing in board games, immersed in movies and anime, or exploring creative stories in various media.
+### 🚀 Future Horizons
+My long-term goal is to contribute to the path toward **AGI**. I am particularly excited about exploring:
+- 🧩 **Unified Multimodal Generation & Understanding**
+- 🤖 **Vision-Language-Action (VLA) Models**
+- 🌍 **World Models** for embodied intelligence
 
-📫 Let's Connect!
-I’m always open to collaborating on innovative projects or just having a chat about the future of AI. Feel free to reach out!
+### 🎮 Beyond Coding
+When I'm not training models, you can find me:
+- 🎲 Strategizing in **board games**
+- 🎬 Immersed in **movies and anime**
+- 📖 Exploring creative stories in various media
+
+---
+
+### 📫 Let's Connect!
+I’m always open to **collaborating on innovative projects** or just having a chat about the **future of AI**. Feel free to reach out!
 
 <!-- # 🔥 News -->
 
