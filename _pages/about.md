@@ -34,12 +34,6 @@ My long-term goal is to contribute to the path toward **AGI**. I am particularly
 - 🤖 **Vision-Language-Action (VLA) Models**
 - 🌍 **World Models** for embodied intelligence
 
-### 🎮 Beyond Coding
-When I'm not training models, you can find me:
-- 🎲 Strategizing in **board games**
-- 🎬 Immersed in **movies and anime**
-- 📖 Exploring creative stories in various media
-
 ---
 
 ### 📫 Let's Connect!
