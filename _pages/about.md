@@ -31,13 +31,17 @@ Previously, under the guidance of [Yishuo Cai](https://walkeralan123.github.io/)
 
 # 🖨️ Preprints & In Submission
 
-- [DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection](https://leontc-liujiahui.github.io/)<br>
-  Weilin Zhou, Zonghao Ying, Chunlei Meng, **Jiahui Liu**, Hengyang Zhou, Zhaolu Kang, Quanchen Zou, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang<br>
-  *ACL ARR 2026 January Submission*, 2025
+- [AVRBench: A Manipulation-Oriented Benchmark for Evaluating Multimodal Large Language Models’ Ability to Think with Images](https://leontc-liujiahui.github.io/)  
+  Yishuo Cai, **Jiahui Liu**, Yuanxin Liu, Xiang Yu, Wenxuan Huang, Linli Yao, Kun Ouyang, Xu Sun, Shuang Liu, Haoli Bai  
+  *ECCV 2026 Conference Submission*, 2026
 
-- [AVRBENCH: A Manipulation-Oriented Benchmark for Evaluating Multimodal Large Language Models’ Ability to Think with Images](https://leontc-liujiahui.github.io/)<br>
-  Yishuo Cai, **Jiahui Liu**, Yuanxin Liu, Xiang Yu, Wenxuan Huang, Linli Yao, Kun Ouyang, Xu Sun, Shuang Liu, Haoli Bai<br>
-  *CVPR 2026 Conference Submission*, 2025
+- [DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection](https://leontc-liujiahui.github.io/)  
+  Weilin Zhou, Zonghao Ying, Chunlei Meng, **Jiahui Liu**, Hengyang Zhou, Chih-Ting Liao, Quanchen Zou, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang  
+  *ECCV 2026 Conference Submission*, 2026
+
+- [Chain of Mindset: Reasoning with Adaptive Cognitive Modes]([https://leontc-liujiahui.github.io/](https://arxiv.org/abs/2602.10063))  
+  Tianyi Jiang, Ruichuan An, Hengyi Feng, Nai-Xin Zhai, Haodong Li, Xiaomin Yu, **Jiahui Liu**, Hanwen Du, Shuo Zhang, Zhi Yang, Jie Huang, Youhua Li, Yongxin Ni, Huacan Wang, Ronghao Chen  
+  *ICML 2026 Conference Submission*, 2026
   
 # 📖 Educations
 - *2023.09 - Present*, Undergraduate, School of Computer Science and Engineering, Central South University, Changsha, China. Majoring in Data Science and Big Data Technology.
