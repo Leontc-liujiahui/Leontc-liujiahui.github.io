@@ -66,7 +66,7 @@ I’m always open to **collaborating on innovative projects** or just having a c
 
 <div style="margin-bottom: 1.2em; padding: 0.9em 1em; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
   <img src="/images/pku_logo.png" alt="PKU Logo" style="height: 24px; vertical-align: middle; margin-right: 10px;">
-  <strong>Research Intern, <a href="[https://lanco-lab.github.io/](https://lancopku.github.io/)">LANCO Lab</a>, Peking University</strong><br>
+  <strong>Research Intern, <a href="https://lancopku.github.io/">LANCO Lab</a>, Peking University</strong><br>
   <em>Jul 2025 – Present</em><br>
   Working on multimodal large language model reasoning and benchmark construction.
 </div>
