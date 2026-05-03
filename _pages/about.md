@@ -29,10 +29,10 @@ redirect_from:
 Previously, under the mentorship of [**Yishuo Cai**](https://walkeralan123.github.io/), I focused on **MLLM Reasoning**, with a specific emphasis on **"Thinking with Images"** — exploring how multimodal models can move beyond simple recognition to deep visual cognition.
 
 ### 🚀 Future Horizons
-My long-term goal is to contribute to the path toward **AGI**. I am particularly excited about exploring:
-- 🧩 **Unified Multimodal Generation & Understanding**
-- 🤖 **Vision-Language-Action (VLA) Models**
-- 🌍 **World Models** for embodied intelligence
+My current interests lie in developing AI systems that can reason and learn from the visual world. I am particularly excited about:
+- 👁️ **Vision-Centric Reasoning** — multimodal reasoning beyond purely linguistic chains of thought, where visual states, spatial structures, and visual primitives become part of the reasoning process.
+- 🎨 **Deep Generative Models** — understanding how generative models learn, represent, and synthesize complex data distributions.
+- 🎬 **Video Generation & World Models** — exploring video generation as a path toward learning dynamics, causality, and physical knowledge from visual experience.
 
 ---
 
