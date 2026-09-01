@@ -28,11 +28,11 @@ redirect_from:
 ### 🔍 Research Interests
 Previously, under the mentorship of [**Yishuo Cai**](https://walkeralan123.github.io/), I focused on **MLLM Reasoning**, with a specific emphasis on **"Thinking with Images"** — exploring how multimodal models can move beyond simple recognition to deep visual cognition.
 
-### 🚀 Future Horizons
-My current interests lie in developing AI systems that can reason and learn from the visual world. I am particularly excited about:
-- 👁️ **Vision-Centric Reasoning** — multimodal reasoning beyond purely linguistic chains of thought, where visual states, spatial structures, and visual primitives become part of the reasoning process.
-- 🎨 **Deep Generative Models** — understanding how generative models learn, represent, and synthesize complex data distributions.
-- 🎬 **Video Generation & World Models** — exploring video generation as a path toward learning dynamics, causality, and physical knowledge from visual experience.
+🚀 Future Horizons
+My current interests focus on Multimodal Reasoning and Robot Learning, with the long-term goal of building general-purpose embodied agents that can reason over multimodal information and reliably translate human intentions into adaptive and controllable behaviors.
+
+- 🧠 Multimodal Reasoning — enabling models to reason over visual, spatial, symbolic, and other multimodal information, moving beyond language-centric reasoning toward more grounded understanding of the world.
+- 🤖 Robot Learning — developing embodied agents that can learn from multimodal experience, understand behavioral intentions, and generate reliable, adaptive, and steerable robot behaviors.
 
 ---
 
@@ -45,37 +45,26 @@ I’m always open to **collaborating on innovative projects** or just having a c
 <!-- # 📝 Selected Publications -->
 
 
-# 🖨️ Preprints & In Submission
+<!-- # 🖨️ Preprints & In Submission -->
 
-- [AVRBench: A Manipulation-Oriented Benchmark for Evaluating Multimodal Large Language Models’ Ability to Think with Images](https://leontc-liujiahui.github.io/)  
-  Yishuo Cai, **Jiahui Liu**, Yuanxin Liu, Xiang Yu, Wenxuan Huang, Linli Yao, Kun Ouyang, Xu Sun, Shuang Liu, Haoli Bai  
-  *ECCV 2026 Conference Submission*, 2026
-
-- [DIVER: Dynamic Iterative Visual Evidence Reasoning for Multimodal Fake News Detection](https://leontc-liujiahui.github.io/)  
-  Weilin Zhou, Zonghao Ying, Chunlei Meng, **Jiahui Liu**, Hengyang Zhou, Chih-Ting Liao, Quanchen Zou, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang  
-  *ECCV 2026 Conference Submission*, 2026
-
-- [Chain of Mindset: Reasoning with Adaptive Cognitive Modes](https://arxiv.org/abs/2602.10063)  
-  Tianyi Jiang, Ruichuan An, Hengyi Feng, Nai-Xin Zhai, Haodong Li, Xiaomin Yu, **Jiahui Liu**, Hanwen Du, Shuo Zhang, Zhi Yang, Jie Huang, Youhua Li, Yongxin Ni, Huacan Wang, Ronghao Chen  
-  *ICML 2026 Conference Submission*, 2026
   
 # 📖 Educations
 - *2023.09 - Present*, Undergraduate, School of Computer Science and Engineering, Central South University, Changsha, China. Majoring in Data Science and Big Data Technology.
 
-<!-- # 💻 Internships -->
+# 💻 Internships
 
-<!-- <div style="margin-bottom: 1.2em; padding: 0.9em 1em; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
+<div style="margin-bottom: 1.2em; padding: 0.9em 1em; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
   <img src="/images/pku_logo.png" alt="PKU Logo" style="height: 24px; vertical-align: middle; margin-right: 10px;">
   <strong>Research Intern, <a href="https://lancopku.github.io/">LANCO Lab</a>, Peking University</strong><br>
   <em>Jul 2025 – Present</em><br>
   Working on multimodal large language model reasoning and benchmark construction.
-</div> -->
+</div>
 
 <!-- <div style="margin-bottom: 1.2em; padding: 0.9em 1em; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
-  <img src="/images/pku_logo.png" alt="PKU Logo" style="height: 24px; vertical-align: middle; margin-right: 10px;">
-  <strong>Research Intern, <a href="你的DCML链接">DCML</a>, Peking University</strong><br>
-  <em>Jan 2026 – Present</em><br>
-  Working on multimodal learning and foundation model research.
+  <img src="/images/zju_logo.png" alt="ZJU Logo" style="height: 24px; vertical-align: middle; margin-right: 10px;">
+  <strong>Research Intern, <a href="https://person.zju.edu.cn/yzhuang">DCD Lab</a>, Zhejiang University</strong><br>
+  <em>March 2026 – Present</em><br>
+  Working on Humanoid Foundation Model research.
 </div> -->
 
 
