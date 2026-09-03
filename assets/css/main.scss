@@ -107,3 +107,14 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// Keep institution logos visually consistent while preserving their aspect ratios.
+img.internship-logo {
+    display: inline-block;
+    width: 92px;
+    height: 30px;
+    margin-right: 10px;
+    object-fit: contain;
+    object-position: left center;
+    vertical-align: middle;
+}

@@ -54,19 +54,18 @@ I’m always open to **collaborating on innovative projects** or just having a c
 # 💻 Internships
 
 <div style="margin-bottom: 1.2em; padding: 0.9em 1em; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
-  <img src="/images/pku_logo.png" alt="PKU Logo" style="height: 24px; vertical-align: middle; margin-right: 10px;">
+  <img class="internship-logo" src="/images/pku_logo.png" alt="PKU Logo">
   <strong>Research Intern, <a href="https://lancopku.github.io/">LANCO Lab</a>, Peking University</strong><br>
   <em>Jul 2025 – Present</em><br>
   Working on multimodal large language model reasoning and benchmark construction.
 </div>
 
 <div style="margin-bottom: 1.2em; padding: 0.9em 1em; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
-  <img src="/images/zju_logo.png" alt="ZJU Logo" style="height: 24px; vertical-align: middle; margin-right: 10px;">
+  <img class="internship-logo" src="/images/zju_logo.png" alt="ZJU Logo">
   <strong>Research Intern, <a href="https://person.zju.edu.cn/yzhuang">DCD Lab</a>, Zhejiang University</strong><br>
   <em>March 2026 – Present</em><br>
   Working on Humanoid Foundation Model research.
 </div>
-
 
 
 
