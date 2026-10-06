@@ -49,7 +49,8 @@ I’m always open to **collaborating on innovative projects** or just having a c
 
   
 # 📖 Educations
-- *2023.09 - Present*, Undergraduate, School of Computer Science and Engineering, Central South University, Changsha, China. Majoring in Data Science and Big Data Technology.
+- *2023.09–2027.06*, B.S., Central South University, Changsha, China.
+- *2027.09–2032.06 (Expected)*, Ph.D., Zhejiang University, Hangzhou, China.
 
 # 💻 Internships
 
@@ -57,7 +58,7 @@ I’m always open to **collaborating on innovative projects** or just having a c
   <img class="internship-logo" src="/images/pku_logo.png" alt="PKU Logo">
   <strong>Research Intern, <a href="https://lancopku.github.io/">LANCO Lab</a>, Peking University</strong><br>
   <em>Jul 2025 – Present</em><br>
-  Working on multimodal large language model reasoning and benchmark construction.
+  Working on Multimodal Large Language Model research.
 </div>
 
 <div style="margin-bottom: 1.2em; padding: 0.9em 1em; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
